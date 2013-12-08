@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ai:chart xmlns:ai="http://www.artfulbits.com/android/aiCharts">
+<ai:area >
+<ai:area.xaxis labels_visible="false"/>
+<ai:area.yaxis labels_visible="false"/>
+<ai:area.xaxis title="Time"/>
+<ai:area.xaxis scrollbar_enabled="true"/>
+</ai:area>
+<ai:series type="Line" name="Delta"/>
+<ai:series type="Line" name="High Alpha"/>
+<ai:series type="Line" name="High Beta" />
+<ai:series type="Line" name="Low Alpha" />
+<ai:series type="Line" name="Low Beta"/>
+<ai:series type="Line" name="Low Gamma"/>
+<ai:series type="Line" name="Mid Gamma" />
+<ai:series type="Line" name="Theta" />
+<ai:legend/>
+</ai:chart>

@@ -1,0 +1,135 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/linearLayout1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical" >
+<!-- Thinking is not implemented for now only attention and meditation are treated
+<TextView
+android:id="@+id/thinking"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text=""
+android:layout_gravity="center"
+android:textAppearance="?android:attr/textAppearanceLarge" />
+-->
+<TextView
+android:id="@+id/attentionText"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Attention Level"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<ProgressBar
+android:id="@+id/attentionBar"
+style="?android:attr/progressBarStyleHorizontal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content" />
+<TextView
+android:id="@+id/meditationText"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Meditation Level"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<ProgressBar
+android:id="@+id/meditationBar"
+style="?android:attr/progressBarStyleHorizontal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content" />
+<TextView
+android:id="@+id/blinkText"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Eyes"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+android:id="@+id/blink"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Blink"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/channels"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Frequency Bands"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+android:id="@+id/ch1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Delta"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="High Alpha"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="High Beta"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch4"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Low Alpha"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch5"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Low Beta"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch6"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Low Gamma"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch7"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mid Gamma"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/ch8"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Theta"
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<Button
+android:id="@+id/stopButton"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Stop Recording"
+android:onClick="graph"/>/>
+<TextView
+android:id="@+id/connectText"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:text="Connection Status"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+android:id="@+id/connectStatus"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Connecting ..."
+android:textAppearance="?android:attr/textAppearanceSmall" />
+<TextView
+android:id="@+id/textView1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:text="Signal Quality"
+android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+android:id="@+id/signal"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text=""
+android:textAppearance="?android:attr/textAppearanceSmall" />
+</LinearLayout>
