@@ -1,4 +1,4 @@
-MindWave Intuition is an Android Application to monitor intuition
+MindWave Intuition is an Android Application to monitor intuition (work in progress)
 
 Intuition in a fundamental scientific approch is known as mediumnity in esotherism
 
