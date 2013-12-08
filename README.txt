@@ -14,3 +14,5 @@ The copyright is MIT 2013 and i am continuing to develop this application in the
 Anthony M. Garcia from Computer Engineering Department
 College of Engineering
 California Polytechnic State University
+
+A basic GIST of ThinkGear is found at https://gist.github.com/boudeffa/7864838
