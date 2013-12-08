@@ -1,4 +1,4 @@
-BrainWave Intuition is an Android Application to monitor intuition
+MindWave Intuition is an Android Application to monitor intuition
 
 This work is an overview of my reaserch about mindcontrol and personnality transfert in cyberspace
 
