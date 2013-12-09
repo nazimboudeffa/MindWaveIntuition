@@ -9,7 +9,7 @@ This work is an overview of my reaserch about mindcontrol and personnality trans
 
 This work aim to be a part of the 2045 project
 
-The copyright is MIT 2013 and i am the author of this software in the context of the work of 
+This software have been licenced as MIT 2013 and i am his author in the context of the work of 
 
 Anthony M. Garcia from the Computer Engineering Department
 College of Engineering
