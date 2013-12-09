@@ -1,4 +1,4 @@
-</img src="https://github.com/boudeffa/MindWaveIntuition/blob/master/res/drawable-hdpi/ic_launcher.png">
+<img src="ic_launcher_web.png">
 <p>
 MindWave Intuition is an Android Application to monitor intuition (work in progress)
 </p>
