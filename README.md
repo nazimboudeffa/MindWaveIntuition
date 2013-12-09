@@ -1,4 +1,4 @@
-<img src="res/drawable-hdpi/ic_launcher.png" style="float:right;">
+<img src="res/drawable-hdpi/ic_launcher.png">
 <p>
 MindWave Intuition is an Android Application to monitor intuition (work in progress)
 </p>
@@ -20,7 +20,11 @@ This software is licenced as MIT 2013 and i am his author in the context of the 
 </p>
 <p>
 Anthony M. Garcia from the Computer Engineering Department
+</p>
+<p>
 College of Engineering
+</p>
+<p>
 California Polytechnic State University
 </p>
 <p>
