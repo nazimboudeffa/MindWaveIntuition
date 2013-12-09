@@ -13,7 +13,7 @@ This work is an overview of my reaserch about mindcontrol and personnality trans
  <li>Consciousness states/modification</li>
 </ul>
 <p>
-<b>This work aim to be a part of the 2045 project</b>
+<b>This work aim to be a part of the <a href="http://2045.com/">2045 project</a></b>
 </p>
 <p>
 This software is licenced as MIT 2013 and i am his author in the context of the work of 
