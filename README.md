@@ -2,7 +2,7 @@
 <p>
 <b>MindWave Intuition is an Android Application to monitor intuition (work in progress)</b> 
 </p>
-<p><i>You will need a neurosky mindwave to use this application</i>
+<p><i>You will need a <a href="http://www.neurosky.com/">neurosky mindwave</a> to use this application</i>
 </p>
 <p>
 Intuition in a fundamental scientific approch is known as mediumnity in esotherism
