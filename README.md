@@ -9,7 +9,7 @@ Intuition in a fundamental scientific approch is known as mediumnity in esotheri
 This work is an overview of my reaserch about mindcontrol and personnality transfert in cyberspace
 </p>
 <ul>
- <li>Intuition</li>
+ <li>Telekinesy</li>
  <li>Consciousness states/modification</li>
 </ul>
 <p>
