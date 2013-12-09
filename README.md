@@ -1,6 +1,6 @@
 <img src="res/drawable-hdpi/ic_launcher.png">
 <p>
-MindWave Intuition is an Android Application to monitor intuition (work in progress)
+<b>MindWave Intuition is an Android Application to monitor intuition (work in progress)</b>
 </p>
 <p>
 Intuition in a fundamental scientific approch is known as mediumnity in esotherism
@@ -13,7 +13,7 @@ This work is an overview of my reaserch about mindcontrol and personnality trans
  <li>Consciousness states/modification</li>
 </ul>
 <p>
-This work aim to be a part of the 2045 project
+<b>This work aim to be a part of the 2045 project</b>
 </p>
 <p>
 This software is licenced as MIT 2013 and i am his author in the context of the work of 
