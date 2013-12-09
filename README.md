@@ -1,4 +1,4 @@
-<img src="res/drawable-hdpi/ic_launcher.png">
+<img src="res/drawable-hdpi/ic_launcher.png" style="float:right;">
 <p>
 MindWave Intuition is an Android Application to monitor intuition (work in progress)
 </p>
