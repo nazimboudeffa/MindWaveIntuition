@@ -32,3 +32,4 @@ California Polytechnic State University
 <p>
 A basic GIST of ThinkGear is found at https://gist.github.com/boudeffa/7864838
 </p>
+<p>More infos and futur developpements contact <a href="https://www.facebook.com/david.gaurand">David Gaurand</a></p>
