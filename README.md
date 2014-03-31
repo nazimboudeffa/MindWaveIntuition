@@ -30,7 +30,7 @@ College of Engineering
 California Polytechnic State University
 </p>
 <p>
-A basic GIST of ThinkGear is found at https://gist.github.com/boudeffa/7864838
+#7864838 is basic GIST of ThinkGear
 </p>
 <p>
 <b>Contact <a href="https://www.facebook.com/david.gaurand">David Gaurand</a> for more infos on futur developpements</b>
